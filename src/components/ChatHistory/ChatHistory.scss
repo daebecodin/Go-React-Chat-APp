@@ -1,0 +1,15 @@
+//Let’s add a little style to our ChatHistory component in our ChatHistory.scss file, 
+//this is just a simple background color change and some updates to padding and margin:
+
+.ChatHistory {
+    background-color: #1B4242;
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+    border: 1px soild ;
+    h2{
+        margin: 0;
+        padding: 0;
+        color: white;
+    }
+}
